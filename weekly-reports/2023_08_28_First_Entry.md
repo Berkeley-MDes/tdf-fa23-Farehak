@@ -4,7 +4,8 @@
 
 Hello Everybody!
 
-**This is bold text
+**This is bold text**
+
 _italics are stupid_
 
 ![Rboticfish](Fish.jpg)
