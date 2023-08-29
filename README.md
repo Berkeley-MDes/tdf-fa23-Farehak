@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository! 
 
-![This is me](Me.jpg)
+![This is me](Me.jpeg)
 
 
 
