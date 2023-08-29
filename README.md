@@ -1,6 +1,6 @@
 # Fareha Khan, Technology Design Foundation
 
-Welcome to my GitHub repository! 
+### Welcome to my GitHub repository! 
 
 ![This is me](Me.jpeg)
 
