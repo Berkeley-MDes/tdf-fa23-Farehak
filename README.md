@@ -59,7 +59,7 @@ I also realized that this orientation only allowed the phone to be held in lands
 
 I realized that there are a lot of things interconnected in this project and it is easy to get confused. Therefore, I decided to make a flowchart of actions that would help me produce my next phone stand models. The flowchart looked a little bit like this: 
 
-![flowchart](flowchart.jgp)
+![flowchart](flowchart.jpg)
 
 We start by going back to the Grasshopper and Rhino files to change the parameters. Once the parameters are decided, the drawing should be checked to see if it matches expectation. The next step would be to bake the drawing in grasshopper so it can be exported to dxf for laser cutting. Next, the dxf file should be prepared with the right document set up. The laser cutter safety precautions should be checked. The plywood then should be kept at the right place and with focus view it should be checked whether the drawings are within the scope. 
 
