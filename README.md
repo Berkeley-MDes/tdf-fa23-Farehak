@@ -25,8 +25,16 @@ The specific file that I’m typing into right now is the **README.md** for this
 # Report 1 - Week of 08/31/2023 #
 This week, I got introduced to grasshopper and explored some files to design and laser cut a phone stand. So what is Grasshopper? In short, Grasshopper is a visual programming language that runs with Rhinoceros 3D. 
 
-## :bug: Getting Started...
+## :memo: Getting Started...
 
+The first step I took to approach this project was to read a little bit about Grasshopper and try to get a sense of what this software is. I found some really helpful information on [Rhino's website](https://www.rhino3d.com/6/new/grasshopper/) It explains how Grasshopper allows a wide range of functions from environmental analysis to robotic control! In addition to that, I also watched Kyle's beginner videos about Rhino. 
+
+Second step for me was to get started with the Phone Stand files that was shared with us in class last week. When I first opened the file, it was a little difficult for me to locate the options and tools. I was successfully able to open the grasshopper file through Rhino, but my screen looked very different from TJ's Rhino screen during class. 
+I figured the problem was that my screen was missing the Remote Control Panel which would be used to manipulate the variables. Then after hovering over different tabs and tools, I figured out that the RCP (Remote control panel) was in Grasshopper's window under view!
+
+## :swimmer: Progressing...
+## 📈 Getting There...
+## 🔮 Final Thoughts...
 
 
 ---
