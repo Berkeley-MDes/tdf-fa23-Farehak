@@ -42,7 +42,7 @@ I also chose to product only 2D drawings as I wanted to work with laser cutting.
 
 The material I chose was plywood 1/4 inch board. I set the dxf file for the right document setup such as stroke line: 0.072 pt, RGB 255,0,0 for cut, and, and no fill. The laser cutting process was very satisfying to watch. 
 
-![laser cutting](redlaser.mp4)
+![lasercutting](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/efe6c14a-24be-480b-bff3-f954820c062c)
 
 After all the parts were cut, I assembled them to construct the phone stand. The assembled peice looked alright in terms of the cut, shape and size.
 
@@ -56,6 +56,15 @@ I also realized that this orientation only allowed the phone to be held in lands
 
 
 ## 📈 Getting There...
+
+I realized that there are a lot of things interconnected in this project and it is easy to get confused. Therefore, I decided to make a flowchart of actions that would help me produce my next phone stand models. The flowchart looked a little bit like this: 
+
+![flowchart](flowchart.jgp)
+
+We start by going back to the Grasshopper and Rhino files to change the parameters. Once the parameters are decided, the drawing should be checked to see if it matches expectation. The next step would be to bake the drawing in grasshopper so it can be exported to dxf for laser cutting. Next, the dxf file should be prepared with the right document set up. The laser cutter safety precautions should be checked. The plywood then should be kept at the right place and with focus view it should be checked whether the drawings are within the scope. 
+
+
+
 ## 🔮 Final Thoughts...
 
 
