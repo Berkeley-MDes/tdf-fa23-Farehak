@@ -32,7 +32,8 @@ The first step I took to approach this project was to read a little bit about Gr
 
 
 Second step for me was to get started with the Phone Stand files that was shared with us in class last week. When I first opened the file, it was a little difficult for me to locate the options and tools. I was successfully able to open the grasshopper file through Rhino, but my screen looked very different from TJ's Rhino screen during class. 
-This is what my screen looked like, very blank and no Remote Control ![No RCP](grasshopperscreen.jpeg)
+This is what my screen looked like, very blank and no Remote Control
+![No RCP](grasshopperscreen.jpg)
 
 I figured the problem was that my screen was missing the Remote Control Panel which would be used to manipulate the variables. Then after hovering over different tabs and tools, I figured out that the RCP (Remote control panel) was in Grasshopper's window under view!
 
