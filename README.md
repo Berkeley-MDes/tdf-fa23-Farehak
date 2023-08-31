@@ -4,6 +4,11 @@
 
 ![This is me](Me.jpeg)
 
+Hi! my name is Fareha Khan. I am a Mechanical Engineer by profession and a Designer by heart. Currently, I am based in Dubai working as an Industrial Sustainability Engineer at Schneider Electric. I deeply care about ideas and products that make us feel more humane and connect us with our true selves. I am co-founder of Efert, a non-profit public toilet management system in Karachi, my hometown. In my free time, I love to chat with my grandparents, watch sports with my friends or watch movies with my mom.
+
+I came across a video of James Dyson answering some really fun desing questions and I absolutely love his design thinking. 
+[Check it out!](https://www.youtube.com/watch?v=zFCFe38EIfE)
+
 
 
 
@@ -18,13 +23,11 @@ The specific file that I’m typing into right now is the **README.md** for this
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 ---
 # Report 1 - Week of 08/31/2023 #
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+This week, I got introduced to grasshopper and explored some files to design and laser cut a phone stand. So what is Grasshopper? In short, Grasshopper is a visual programming language that runs with Rhinoceros 3D. 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+## :bug: Getting Started...
 
----
 
-or, if you prefer, you can create separate files and link to them here, like so:
 
 ---
 [Example Report 1](weekly-reports/example-report-1.md)
