@@ -31,16 +31,20 @@ I figured the problem was that my screen was missing the Remote Control Panel wh
 
 ## :swimmer: Progressing...
 
-After being able to locate the Remote Control Panel, I tried to modify the parameters such as phone dimentions, student height and table dimentions. I noticed that my heigth is shorter than the height of the student in example, so I also tried to change the phone angle in such a way that it would cover me completely. 
+After being able to locate the Remote Control Panel, I tried to modify the parameters such as phone dimentions, student height and table dimentions. I noticed that my heigth is shorter than the height of the student in example, so I also tried to change the phone angle in such a way that it would cover me completely. ![angle](angle.jpg)
+
 
 I also chose to product only 2D drawings as I wanted to work with laser cutting. After I was satisfied with the parameters, I saved changes and checked out the drawing for productions file. The drawings seemed to be what I expected them to be so I exported them to dxf file and went on for laser cutting. 
+![drawing](drawing.jpg)
 
 The material I chose was plywood 1/4 inch board. I set the dxf file for the right document setup such as stroke line: 0.072 pt, RGB 255,0,0 for cut, and, and no fill. The laser cutting process was very satisfying to watch. 
 ![laser cutting](redlaser.mp4)
 
-After all the parts were cut, I assembled them to construct the phone stand. The assembled peice looked alright in terms of the cut, shape and size. ![First Cut](landscape)
+After all the parts were cut, I assembled them to construct the phone stand. The assembled peice looked alright in terms of the cut, shape and size.
+![First Cut](landscape.jpg)
 
 However, I noticed that the parts were not fitting perfectly, and the phone stand was not exatly sturdy. I noticed that this was because of the cuts in the base being slightly  larger than the thickness of the material. 
+
 ![Cuts](oneclose.jpg)
 
 I also realized that this orientation only allowed the phone to be held in landscape which is not very convenient. 
