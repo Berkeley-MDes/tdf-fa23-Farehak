@@ -67,6 +67,10 @@ We start by going back to the Grasshopper and Rhino files to change the paramete
 
 ## 🔮 Final Thoughts...
 
+I think I am happy with the final phone stand model as it is as sturdy as I wanted it to be and it is customized for my height.
+
+![final model](final.jpg)
+
 
 
 
