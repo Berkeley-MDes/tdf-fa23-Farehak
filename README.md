@@ -11,16 +11,6 @@ I came across a video of James Dyson answering some really fun desing questions 
 
 
 
-
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
-
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link! 
-
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
-
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 ---
 # Report 1 - Week of 08/31/2023 #
 This week, I got introduced to grasshopper and explored some files to design and laser cut a phone stand. So what is Grasshopper? In short, Grasshopper is a visual programming language that runs with Rhinoceros 3D. 
@@ -40,28 +30,22 @@ I figured the problem was that my screen was missing the Remote Control Panel wh
 ![RCP](rcp.jpg)
 
 ## :swimmer: Progressing...
+
+After being able to locate the Remote Control Panel, I tried to modify the parameters such as phone dimentions, student height and table dimentions. I noticed that my heigth is shorter than the height of the student in example, so I also tried to change the phone angle in such a way that it would cover me completely. 
+
+I also chose to product only 2D drawings as I wanted to work with laser cutting. After I was satisfied with the parameters, I saved changes and checked out the drawing for productions file. The drawings seemed to be what I expected them to be so I exported them to dxf file and went on for laser cutting. 
+
+The material I chose was plywood 1/4 inch board. I set the dxf file for the right document setup such as stroke line: 0.072 pt, RGB 255,0,0 for cut, and, and no fill. The laser cutting process was very satisfying to watch. 
+![laser cutting](redlaser.mp4)
+After all the parts were cut, I assembled them to construct the phone stand. However, I noticed that the parts were not fitting perfectly, and the phone stand was not exatly sturdy. I noticed that this was because of the cuts in the base being slightly  larger than the thickness of the material. 
+![Cuts](oneclose.jpg)
+
+
+
+
 ## 📈 Getting There...
 ## 🔮 Final Thoughts...
 
 
----
-[Example Report 1](weekly-reports/example-report-1.md)
----
-
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
-
-sparkles,
-
-your TDF TA, shm :sparkles:
-
-PS: let me know if you have any questions!!
-
---- 
-PPS: 
-## Quick Links, compiled here for your convenience: ##
-
-- [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
 
