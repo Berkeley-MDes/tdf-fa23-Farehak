@@ -75,4 +75,16 @@ I think I am happy with the final phone stand model as it is as sturdy as I want
 ---
 # Report 2 - Week of 09/07/2023 #
 
+## 🏁 Phone Stand Modification
+
+This week, I spent a little more time with the Rhino and grasshopper files relavant to the phone stand. I realized that the grasshopper file allows many modifications in the final shape of the phone stand. Something new I touched was 'prism' modifications. Modifying the prism offset values has an effect on the 'claw' of the phone stand.
+
+![prism](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/a0eef4de-c9e3-4d8d-926e-4ad45f5826b9)
+
+I realized that if I could completely remove the claw, the phone stand could also allow portrait orientation. Modifying the prism values looked like this: 
+
+![withprism](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/9ce7d181-3954-4397-ba7a-3744dd599c7a)
+![prism3d](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/dcf32c00-1b12-4886-80ee-725eb3d46f16)
+
+
 ![two](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/80cad58a-310a-4e38-9ef1-2ff4e2e8a2f4)
