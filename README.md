@@ -72,5 +72,7 @@ I think I am happy with the final phone stand model as it is as sturdy as I want
 ![final model](final.jpg)
 
 
+---
+# Report 2 - Week of 09/07/2023 #
 
-
+![two](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/80cad58a-310a-4e38-9ef1-2ff4e2e8a2f4)
