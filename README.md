@@ -103,11 +103,30 @@ https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/cd6227e2-f745
 The final and most interesting part of this trial was the assembly. After all the parts were laser cut, I had to assemble and test if they fit tightly. As expected, the tenons were a little bit big and forcing them into the mortoise was a little difficult. I decided to grab a hammer and softly tap on the pieces to fit exactlt in the joints. 
 
 
-
 https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/7d667676-46b5-481d-92e1-7fab5feed465
 
+This step was a little scary as I needed to be careful not to deform the joints. The soft taps and gradual fixes of the axis made sure that the phone stand assembled perfectly. It came out to be very sturdy and compact. The absense of 'claw' not allowed different orientations but also made the phone stand very compact and aestheically pleasing. Here is the comparison of the two models:
 
 ![two](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/80cad58a-310a-4e38-9ef1-2ff4e2e8a2f4)
+
+## ☑️ Testing
+
+After I assesmbled the phone stand, I placed on top a table with height approximately the same as I set in grasshopper. Then I placed the phone in both landscape and portrait orientation to record a video of me pretending to knit. This step was important for me to understand and test how the parameters such as phone angle, table height, student height, and z focus changed the final quality of filming. This is how the videos turned out to be:
+
+Landscape testing:
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/15591639-b144-4cef-8a1a-ee23ec7a7a6d
+
+
+Portrait testing: 
+
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/443d6aea-2062-476c-834f-7f0e0776b5df
+
+
+After reviewing the videos, I was very happy with my work. I changed the phone angle in grasshopper to be less steeper as I know my height is less than the height of the student considered in the example, this means that the phone angle should not focus as high up as it originally was set. 
 
 ## 🔮 Final Thoughts...
 
