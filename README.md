@@ -67,9 +67,7 @@ We start by going back to the Grasshopper and Rhino files to change the paramete
 
 ## 🔮 Final Thoughts...
 
-I think I am happy with the final phone stand model as it is as sturdy as I wanted it to be and it is customized for my height.
-
-![final model](final.jpg)
+I think grasshopper is an amazing tool that allows excellent design modifications and automation. For next week, I will focus on modifying the phone stand design to allow portrait orientationa and have a more sturdy fit. I also think that with the use of AI and chatgbt in grasshopper, this entire process in the future may be completely automated. 
 
 
 ---
@@ -86,5 +84,33 @@ I realized that if I could completely remove the claw, the phone stand could als
 ![withprism](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/9ce7d181-3954-4397-ba7a-3744dd599c7a)
 ![prism3d](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/dcf32c00-1b12-4886-80ee-725eb3d46f16)
 
+The next part to tackle is to manage the phone stand width. This is important because the width we set, automatically changes the size of mortoise (the joint to fix the phone stand). In the first trial, the phone stand I produced was not sturdy because I did not change the width in grasshopper. This time, I measured the width of plywood that I am going to laser cut for the phone. The phywood measured to be around 2.1 inches (5.3 cm). Accordingly, I set the width in grasshopper to be 5 cm. I imagined that if the width of mortoise is lesser than the width of the tenon, it could be tight fixed. 
+
+## 🥩 Laser Cutting 
+
+After changing the parameters on grasshopper, the final drawing of the phone stand looked like this:
+
+![newdrawing](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/a7cd560e-18e5-4a46-afad-80d06c5b1192)
+
+I also decided to engrave something on the phone case to make it customized. I added a text "hello" from Adobe illustrator on the drawing. The important point here was to carefully select the lines of the shape to be red, and make sure the lines of text are blue. This is because for laser cutting, a red line indicates the machine to cut and a blue line indicates vectoring etching or engraving. 
+
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/cd6227e2-f745-4c61-ad51-2ac93e693ee1
+
+## 🏗️ Assembly
+
+The final and most interesting part of this trial was the assembly. After all the parts were laser cut, I had to assemble and test if they fit tightly. As expected, the tenons were a little bit big and forcing them into the mortoise was a little difficult. I decided to grab a hammer and softly tap on the pieces to fit exactlt in the joints. 
+
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/7d667676-46b5-481d-92e1-7fab5feed465
+
 
 ![two](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/80cad58a-310a-4e38-9ef1-2ff4e2e8a2f4)
+
+## 🔮 Final Thoughts...
+
+I think I am happy with the final phone stand model as it is as sturdy as I wanted it to be and it is customized for my height.
+
+![final model](final.jpg)
