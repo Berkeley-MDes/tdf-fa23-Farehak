@@ -130,6 +130,17 @@ After reviewing the videos, I was very happy with my work. I changed the phone a
 
 ## 🔮 Final Thoughts...
 
+
+
 I think I am happy with the final phone stand model as it is as sturdy as I wanted it to be and it is customized for my height.
 
 ![final model](final.jpg)
+
+
+
+
+
+---
+# Report 3 - Week of 09/14/2023 #
+
+
