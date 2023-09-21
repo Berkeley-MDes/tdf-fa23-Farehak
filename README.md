@@ -292,6 +292,10 @@ also learned from the feedback given in class and
 modified the presentation. I made sure the
 voiceover was audible
 
+
 ![WhatsApp Image 2023-09-18 at 7 58 20 PM (1)](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/60345cf1-8590-41b6-a33e-190587cd159f)
 
 
+
+---
+# Report 4 - Week of 09/21/2023 #
