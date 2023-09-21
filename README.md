@@ -143,6 +143,155 @@ I think I am happy with the final phone stand model as it is as sturdy as I want
 ---
 # Report 3 - Week of 09/14/2023 #
 
-Porject files: 
+### Porject files: 
 [PRoject 1.zip](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/files/12656562/PRoject.1.zip)
+
+## Challenge Level: 02. Platypus
+I decided to choose this level for two reasons. First, I am working with
+grasshopper for the first time, I have worked with Fusion 360 before but not with
+a software close to grasshopper. Second, I planned on going for Axolotl level with
+a really cool idea I had about making a purse from flexible plywood. However, I
+did not find the time to get all the materials needed for that project, so I decided
+to go with another idea I had. In this paper, I will be presenting a fruit bowl that I
+designed on grasshopper and build through laser cut. I think this project is a
+good example of Platypus level as it includes a lot grasshopper functions and the
+final piece is functional and rigid
+
+## The Design
+
+
+![WhatsApp Image 2023-09-18 at 7 58 19 PM](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/41e48f15-79e9-499f-9e9a-c651163f9765)
+
+
+![WhatsApp Image 2023-09-18 at 7 58 20 PM](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/4e67680e-7d80-40ea-8d75-d405e7417f0a)
+
+
+## Challenges
+
+### What to build?
+Like a lot of other classmates, I first struggled with deciding
+how to start with this project. At first, I started by
+practicing grasshopper and building basics shapes. I also
+laser cut the phone stand two times with different
+modifications. One thing that I really wanted to learn was
+how to make hinges with Grasshopper similar to the phone
+stand. I did some searching and found out different mesh
+or waffle shapes that can be created from grasshopper. My
+biggest challenge was to understand how to make a curved
+shape that can serve as a bowl.
+
+![20160908_112545](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/15626d1a-700f-49ae-9fb5-dd588a3d1ab4)
+
+
+### How to Start?
+I started by watching a few videos about parametric
+design. I wanted to make a shape that has repeated
+patterns. At first, I started by making simple parametric
+shapes, such as repeated rectangles. I then built up and
+understood some of the existing tutorials on how to design
+parametric shapes.
+
+![Screenshot 2023-09-18 212538](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/c2c121da-875d-46ce-9db5-8e5aed669b21)
+
+### 3D Print or Laser Cut?
+I wanted to laser cut instead of 3D print. That is because I
+am generally very interested in wood working and
+assembling. Another upside or downside to laser cutting is
+that it requires more design elements. For example, hinges
+and placing the shapes in 2D to be able to cut. This is
+something I struggled. I was not sure if there was a
+functions to turn a rhino 3D model to 2D drawings.
+
+![bowl screenshot](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/6738eb37-96bd-4f13-8e17-c9b89ecb3bbc)
+
+
+## Process and Results
+
+### Modeling:
+In terms of modeling, I started by
+drawing a sphere and cylinder. I
+achieved the bowl shape using
+solid difference. I then added the
+ridges by creating a box around the
+sphere and using brep to cut
+through.
+
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/81a5576c-9ccc-4edc-a8b6-4fbbb7f21e35
+
+
+
+### Parameters:
+The variable parameters that I kept
+for this design were, the radius of
+the bow, the height of the bowl, the
+number of ribs, the thickness of
+each rib, and the roundness of the
+ribs edges
+
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/d6097b94-285d-4cc6-8951-418a1b1f67e3
+
+
+### Evaluation:
+One of the most important things
+to take care of was to make sure
+the ridges are placed in 2d, ready
+to be laser cut. I also checked the
+material thickness of the hinges in
+the final render to make sure it is
+slight smaller than 0.5 cm, which is
+the thickness of the plywood used
+for laser cut
+
+### Fabrication:
+I started by prepping the plywood first. I taped the plywood
+on the laser cut bed carefully so it is completey flat. I aligned
+all the pieces on the illustrator in a nested form. I also made
+sure that all strokes are red color and set to almost 0 pts. I
+then cut and placed all the similar pieces together so that it
+is easier to assemble
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/8fc4a5ff-0ff7-4d84-b0ae-67cc1a55f8df
+
+![WhatsApp Image 2023-09-18 at 9 50 24 PM](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/b0bd1d06-78c6-4efd-b6b7-70e5d1fce35c)
+
+
+### Testing:
+At first, I cut two pieces only and
+put them together to check if the
+material thickness is right. After
+the initial test, I assembled and
+placed the bowl on a flat table
+top to see if it is stable. I also
+tested the bowl by putting
+weights in it to check if it still
+holds and is rigid. I also fliped the
+bowl to check if there were any
+loose hinges
+
+![WhatsApp Image 2023-09-14 at 1 27 49 PM (1)](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/7053eaad-b138-4bcb-bd60-53c0d06a173a)
+
+## SPECULATIONS
+
+![WhatsApp Image 2023-09-18 at 10 46 17 PM](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/75d6e5f2-f829-42ca-9411-8cf0cc8f870e)
+
+
+## CONCLUSION
+I am really happy with the final design and
+prototype of the model. The fruit bowl is very useful
+and works as a product that I can use in day to day
+life. I am also glad about achieving all this on
+grasshopper. This project helped me understand
+many things including, design process, parametric
+design, and how to learn a new software efficiently. I
+also learned from the feedback given in class and
+modified the presentation. I made sure the
+voiceover was audible
+
+![WhatsApp Image 2023-09-18 at 7 58 20 PM (1)](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/60345cf1-8590-41b6-a33e-190587cd159f)
+
 
