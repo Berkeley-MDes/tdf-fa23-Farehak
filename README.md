@@ -299,3 +299,11 @@ voiceover was audible
 
 ---
 # Report 4 - Week of 09/21/2023 #
+
+
+Week 4 had a slow start as right after finishing the first project, it felt like everyone in the cohort deserved a break. (Which I regret now)
+
+## Getting introduced to Electronics Kits
+
+---
+# Report 5 - Week of 09/28/2023 #
