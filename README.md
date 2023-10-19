@@ -319,3 +319,6 @@ Week 4 had a slow start as right after finishing the first project, it felt like
 
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/b0eb9589-e59b-47df-ab1f-38815a9860a6)
 
+
+# Report 8 - Week of 10/19/2023 # (Project 2 Week)
+
