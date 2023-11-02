@@ -12,7 +12,7 @@ I came across a video of James Dyson answering some really fun desing questions 
 
 
 ---
-# Report 1 - Week of 08/31/2023 #
+# Report 1 - Week of 08/31/2023 (Getting started with Project 1) #
 This week, I got introduced to grasshopper and explored some files to design and laser cut a phone stand. So what is Grasshopper? In short, Grasshopper is a visual programming language that runs with Rhinoceros 3D. 
 
 ## :memo: Getting Started...
@@ -141,7 +141,7 @@ I think I am happy with the final phone stand model as it is as sturdy as I want
 
 
 ---
-# Report 3 - Week of 09/14/2023 #
+# Report 3 - Week of 09/14/2023 (Project 1: Computational Design) #
 
 ### Porject files: 
 [PRoject 1.zip](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/files/12656562/PRoject.1.zip)
@@ -320,7 +320,7 @@ Week 4 had a slow start as right after finishing the first project, it felt like
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/b0eb9589-e59b-47df-ab1f-38815a9860a6)
 
 
-# Report 8 - Week of 10/19/2023 # (Project 2 Week)
+# Report 8 - Week of 10/19/2023 # (Project 2: Digital Ecosystem)
 
 ## Challenge Level: 03. Axolotl
 
