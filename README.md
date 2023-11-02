@@ -336,6 +336,7 @@ I started by experimenting and testing the proximity sensor. However, I quickly 
 
 ### How to recognize activity?
 Finding the system to store the data is one challenge, but to understand the different types of activities requires machine learning. In order to recognize and categorize the stored data I explored edge impulse. Edge impulse is a platform that allows machine learning applications to deploy projects that require training and testing of data. One of the main challenge was to connect the photon with edge impulse. Edge impulse requires the user to store data or collect live data while designing a project. However, connecting the photon device directly with Edge impulse was a tedious process. After trying different ways, I understood that my computer did not have a specific cygwin that would allow the photon to connect directly with Edge impulse. Therefore, I decided to store data through a data logger and use that data to train the model. I also had to try different sets of code to make the system work. After several trials and TJ’s help I was able to write the correct code that I was able to flash and store values. 
+
 ![Screenshot 2023-10-18 210904](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/226d5c8a-8a63-474f-9d93-7549aad1d2ab)
 
 ### What will the wearable be?
@@ -351,10 +352,12 @@ https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/257f75d5-337d
 
 ### Data collection & Training
 After several trials of collecting data and training, I was able to deploy a system that could successfully recognize the 4 motions. I also tested the system several times and checked for errors. In the end, I was able to categorize the dataset into 4 different types. As shown in the graph below, we can see that for the 4 types of activity, the data points are very far apart. This shows that the margin of error is less while recognizing the motions.
+
 ![Screenshot 2023-10-19 102925](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/b6bd9e4a-c9ba-49d8-ba73-e97a8b9e0469)
 
 ## Reflections
 I will try to reflect on the different steps and aspects of the project through a meter. If I fell the step was successful, the meter would point towards far right. 
+
 ![Screenshot 2023-11-01 215237](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/8a77eee4-15bc-4337-a26e-6abbd4514779)
 
 ## Speculations
