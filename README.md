@@ -321,4 +321,46 @@ Week 4 had a slow start as right after finishing the first project, it felt like
 
 
 # Report 8 - Week of 10/19/2023 # (Project 2 Week)
+
+## Challenge Level: 03. Axolotl
+
+I decided to choose this level because I aimed to create something different and unique. The idea of diving into machine learning is something completely to me and so it made sense to go for axolotl level. Even though I did not achieve everything I wanted to in this project, I still have given it a lot of time and produced something unique. I also felt that I have been very dedicated to the idea of this project and took on a lot of tasks and that’s why I choose this level.
+
+## Challenges (Individual)
+### What is my aim?
+Pets’ activities are an important indicator to their health. A low or high level of activity may be associated with a disease that the pet might be suffering from. It is important for pet owners to monitor their pet’s activity and be alert if a change is observed. The observation could be made more accurate and easily detected through an automated monitoring system. With this idea in mind, my aim was to design a system that stores pet’s movements and recognizes a change in pattern. For the system to be able to recognize a change, it needs to be able to read the data and categorize it into different categories of activities. We have systems that recognize movements and activity of humans. However, a pet’s activities can be very different and require a new set of database to begin with.
+
+### Which sensor to use?
+I started by experimenting and testing the proximity sensor. However, I quickly realized that the proximity sensor only detects presence of nearby objects. In our project it would not help much. Then I started researching and experimenting with an accelerometer to incorporate in our project. Accelerometers help detect changes in speed and orientation that can be associated with the activity. An advantage of using accelerometer is that it can easily be mounted on the pet as part of a wearable and collect data in real time using a data logger. Using a combination of datalogger, battery, photon, and accelerometer we could design a data storage system.
+![video](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/a60e9ff9-752e-40cf-8cda-f719a410c84c)
+
+### How to recognize activity?
+Finding the system to store the data is one challenge, but to understand the different types of activities requires machine learning. In order to recognize and categorize the stored data I explored edge impulse. Edge impulse is a platform that allows machine learning applications to deploy projects that require training and testing of data. One of the main challenge was to connect the photon with edge impulse. Edge impulse requires the user to store data or collect live data while designing a project. However, connecting the photon device directly with Edge impulse was a tedious process. After trying different ways, I understood that my computer did not have a specific cygwin that would allow the photon to connect directly with Edge impulse. Therefore, I decided to store data through a data logger and use that data to train the model. I also had to try different sets of code to make the system work. After several trials and TJ’s help I was able to write the correct code that I was able to flash and store values. 
+![Screenshot 2023-10-18 210904](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/226d5c8a-8a63-474f-9d93-7549aad1d2ab)
+
+### What will the wearable be?
+As we progressed with the project, it became clear that our wearable needed to be a box similar to an apple watch. This tiny box would enclose the battery, photon and accelerometer. The box would then be tied on a ‘dog collar’ which ensures the accelerometer is always placed at the back of the pet. In case of a dog for example, the accurate movement readings are collected when an accelerometer is placed on the back. I designed a cad drawing of the box with space for a belt to pass through. This belt would be the ‘collar’. This file was used to 3D print the box.
+![Screenshot 2023-10-19 111851](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/8f5d79cd-f892-4d83-8a4b-7fe11e822799)
+
+## Process and Results (Individual)
+### Four types of Activities
+the main photon has a 3 axis accelerometer that collects the pets data continuously through a data logger. This data is then uploaded in edgeimpulse and classified into 4 labels: the edgeimpulse helps create a library that can be used later for monitoring through coding. Through this library the owner gets to monitor pet’s activity. The 4 types of activities we labeled for now are sitting, jumping, slow walking, and rolling. The type of activities the pet is doing more throughout the day, can be connected to their health. For simplicity, these activities can be considered the main activities a pet would involve in. Sitting for longer periods of time can indicate that something is different with the pet’s health. We also added rolling in the database because excessive rolling can be a reaction to some underlying health conditions. 
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/257f75d5-337d-4610-bb6d-e632549e9416
+
+
+### Data collection & Training
+After several trials of collecting data and training, I was able to deploy a system that could successfully recognize the 4 motions. I also tested the system several times and checked for errors. In the end, I was able to categorize the dataset into 4 different types. As shown in the graph below, we can see that for the 4 types of activity, the data points are very far apart. This shows that the margin of error is less while recognizing the motions.
+![Screenshot 2023-10-19 102925](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/b6bd9e4a-c9ba-49d8-ba73-e97a8b9e0469)
+
+## Reflections
+I will try to reflect on the different steps and aspects of the project through a meter. If I fell the step was successful, the meter would point towards far right. 
+![Screenshot 2023-11-01 215237](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/8a77eee4-15bc-4337-a26e-6abbd4514779)
+
+## Speculations
+
+While working on this project I realized that this idea could be developed in different ways. First of all, I think the most obvious way forward would be to create an app that would easily show the activity of the pet. Second, with the merge of AI, the activity level of different types of pet could be categorized automatically. AI has the power to read different types of data and interpret it. If the step of humans inputting data and categorizing it manually could be eliminated, we could probably get a more accurate system. AI could possibly accurately decide what level is high or low based on the data collected over time from pet’s movements. The same could be said about the heartbeat sensor. The heartbeat sensor and accelerometer could both be controlled by AI.  
+
+![voyce](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/5baf3ba5-d0c9-4a85-ba23-6f026eaa32f8)
+
 # Report 9 - Week of 10/26/2023 # 
