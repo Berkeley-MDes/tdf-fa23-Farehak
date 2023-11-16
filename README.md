@@ -367,6 +367,7 @@ While working on this project I realized that this idea could be developed in di
 ![voyce](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/5baf3ba5-d0c9-4a85-ba23-6f026eaa32f8)
 
 
-# Report 10 - Week of 11/02/2023 # (Project 3: MiniMe)
-
 # Report 9 - Week of 10/26/2023 # 
+# Report 10 - Week of 11/02/2023 # (Project 3: MiniMe)
+# Report 11 - Week of 11/09/2023 # 
+# Report 12 - Week of 11/16/2023 # 
