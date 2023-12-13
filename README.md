@@ -369,5 +369,150 @@ While working on this project I realized that this idea could be developed in di
 
 # Report 9 - Week of 10/26/2023 # 
 # Report 10 - Week of 11/02/2023 # (Project 3: MiniMe)
+
+### Challenge Level: 01. Triceratop
+For this project I chose level Triceratop for two reasons. First, I have never
+worked with any LLM projects or created any type of chatbox. Second, I started
+working on this project very late as I was sick missed two sessions already. I
+believe that for this project I have taken on challenges that successfully satisfy
+the triceratop criteria. I did a good job in exploring the Zero Width platform and
+successfully created a mini-me version that reflects a digital portfolio of all
+projects and challenges I took on during this class.
+
+## EXPERIMENTS:
+### Designing Inputs
+One of the most important step in creating a digital twin is creating the right
+intelligence. For my design, I decided to start by setting an instruction that is a
+welcome message from the bot. This helps the users understand what this bot is
+designed for and the type of questions to ask. Second I put the second instruction
+as an instructional message for the bot to answer questions about my journey in
+TDF. I also experimented with inserted variable option and created an instruction
+that gave the user an option to type on the project they wanted to chat about. As
+you can see, I typed in digital ecosystem and all answers were only related to that
+project. I did not keep this variable in the final version as it did not help much.
+
+### Knowledge management strategy
+Earlier, I made one chunk of information only whete I put all the
+information in from github. The result did not look good as the chat bot
+did not provide relevant answers. I then created knew chunks of
+information and divided them into 5 chunks. I dedicated one chunk of
+information to digital ecosystems project and linked to the github as well.
+I also dedicated another chunk to computation design project. I added
+one chunk for the phone stand alone as I spent a lot of time on it as well
+and the github contained a lot of information in there. I dedicated one
+chunk of information for personal information too and one for
+speculations alone. I realized that making different chunks of information
+and specifying what it refers to, makes the information retrieval system
+easier and faster. I realized that the chatbot provided more focused
+answers after I divided the information into chunks.
+
+### Impact of temperature
+I explored the effects of temperature on my chatbot. I started by the default
+temperature of 0.8 but output seemed a little random therefore, I changed
+the temperature 0.6 and eventually 0.4. I noticed that at 0.4 the output
+seemed more focused and distinctive.
+
+### Impact of token count
+A higher token count generally allows an LLM to
+understand and generate more extended and
+context-rich language. It can capture longer
+dependencies in the text, making it better at
+understanding and generating coherent,
+contextually relevant responses. I increased the
+token count in knowledge set to approximately
+6000 and the output seemed more focused.
+However, I limited the instructions token count to
+a couple hundreds only.
+
+
+## CHALLENGES
+### Differentiating between projects
+One of the most important challenges for
+designing the chatbot was to provide the
+information in such a way that the chatbot knows
+the different projects in the portfolio in relation to
+specific keywords. I noticed that if I asked the
+chatbot about project 1 or ‘computational design’
+project, it would provide answers related to
+project 2 instead. I also needed to make sure that
+for project 1 the answers are specific to either the
+phone stand or the fruit bowl that I designed.
+
+### Providing focused yet descriptive answers
+Another big challenge was to make sure that a
+right mix of focused and imaginative answers are
+provided. As the bot is linked with chatgpt, it is
+plausible for it to provide creative or generic
+answers if similarity level is too high. If the
+similarity level is too low, the bot will not be able
+to provide specific answers and will mention any
+information from the knowledge that seems
+relevant. For my bot, I needed to make sure it
+provides the right information related to the
+information set only with a little bit of added
+description that helps the users understand the
+big picture of the project idea.
+
+## PROCESS & RESULTS
+Creating the right knowledge set: It is really important to create
+the right knowledge set that contains all the relevant information
+regarding the projects. I reached the right number of information
+chunks that helped the bot differentiate between the two projects
+and their details.
+Putting in specific instructions: I kept the instructions to the point
+and short. The instructions were linked to the knowledge set.
+Setting optimal temperature level: the temperature level helps set
+the level of randomness needed in the output.
+Setting optimal similarity level: the similarity level allows the bot
+to pull the right information out from the knowledge set.
+Setting the right chat style: agentic or naive: For this project I
+chose the language style to be agentic as that provides the more
+focused outputs that relates to the entire chat and not just the
+recent question.
+In order to tackle the challenges mentioned above, I needed to follow
+below steps with experiments to find the right settings. The steps are
+as follows:
+
+
+## SPECULATIONS
+### How this technology will impact the design of
+human experiences
+Advanced chatbots may be designed to recognize
+and respond to user emotions. This could enhance
+user experiences in fields like mental health
+support or companionship. Designers will need to
+focus on creating emotionally intelligent user
+interfaces.
+### How this technology will impact engineering
+and how we build.
+LLMs can generate code and assist in software
+development tasks. They can provide code
+suggestions, generate documentation, and even
+automate repetitive coding tasks. This can lead to
+faster and more efficient software development.
+
+
+## CONCLUSION
+I am happy with the results of this project as I have
+successfully created a digital twin specific to TDF
+class. I wanted the chatbot to provide focused
+outputs that reflects my thoughts on the projects I
+have undertook in this course. The bot answers all
+critical questions with accuracy and right amount of
+description. As I celebrate the success of this
+project, I also doubt the ethics of this technology.
+LLMs can inherit biases present in the training data,
+leading to biased responses from chatbots.
+Designers need to ensure that chatbots do not
+promote stereotypes, discrimination, or harmful
+biases. They should actively work to mitigate and
+correct biases in the chatbot's responses.
+
+## FEEDBACK ASSESING
+One constructive feedback I received was to
+mention speculations about this technology. I have
+already included a section above which discusses
+my speculations about this technology.
+
 # Report 11 - Week of 11/09/2023 # 
 # Report 12 - Week of 11/16/2023 # 
