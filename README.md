@@ -551,4 +551,33 @@ already included a section above which discusses
 my speculations about this technology.
 
 # Report 11 - Week of 11/09/2023 # 
+
+## Summary:
+1.Tanura Dance is famous dance perfomed in Dubai where the dancer spins for the whole duration with different speeds.
+2. One of the most important part of the design is the LED dress that compliments the dance.
+3. The idea of this project is to design a reactive dress that lights up depending on the movement of the dancer.
+4. This type of reaction is produced with the help of sensors, microcontroller, and LED lights.
+5. The main goal is to be able to use the right sensors that sense the movements and produce signals that actuates the lights.
+
+## Research
+Interactive dresses are a merge of design and technology, currently on the rise.
+A lot of remote controlled or switch controlled LED dresses exist in the market.
+Lights controlled by motion and integrated into the dress is a less known concept.
+There is an opportunity for designers to experiment with different sensors and produce unique interactive dresses.
+As per my research, accelerometer is a good sesnsor to sense the speed and motion of spin.
+
+## Current Work
+I have created the circuit of the project idea on tikercad.
+Testing the circuit online helps in visualizing and testing the concept efficiently.
+The circuit consists of a microcontroller (Arduino) which is connected to an accelerometer and few led lights.
+As a change in acceleration is observed the LED lights up
+
+## Motivation
+to learn more about microcontrollers and how to use them
+Improving coding skills
+understand the input and outputs of different electronics
+understand the types of signals produced and how they can be read
+to design an LLM for project based showcases
+
+
 # Report 12 - Week of 11/16/2023 # 
