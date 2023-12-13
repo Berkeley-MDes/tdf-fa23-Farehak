@@ -406,11 +406,17 @@ and specifying what it refers to, makes the information retrieval system
 easier and faster. I realized that the chatbot provided more focused
 answers after I divided the information into chunks.
 
+![Screenshot 2023-11-06 233746](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/7d8f78de-661b-41e3-810b-87829595069d)
+
+
 ### Impact of temperature
 I explored the effects of temperature on my chatbot. I started by the default
 temperature of 0.8 but output seemed a little random therefore, I changed
 the temperature 0.6 and eventually 0.4. I noticed that at 0.4 the output
 seemed more focused and distinctive.
+
+![Screenshot 2023-12-14 015817](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/fe6f9cc4-a2e0-4f06-94e3-a9890a421234)
+
 
 ### Impact of token count
 A higher token count generally allows an LLM to
@@ -438,6 +444,8 @@ project 2 instead. I also needed to make sure that
 for project 1 the answers are specific to either the
 phone stand or the fruit bowl that I designed.
 
+
+
 ### Providing focused yet descriptive answers
 Another big challenge was to make sure that a
 right mix of focused and imaginative answers are
@@ -452,6 +460,8 @@ provides the right information related to the
 information set only with a little bit of added
 description that helps the users understand the
 big picture of the project idea.
+
+![agentic](https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/11597956-755a-4f33-8ff0-871206f999a5)
 
 ## PROCESS & RESULTS
 Creating the right knowledge set: It is really important to create
@@ -472,6 +482,7 @@ recent question.
 In order to tackle the challenges mentioned above, I needed to follow
 below steps with experiments to find the right settings. The steps are
 as follows:
+
 -Creating the right knowledge set: It is really important to create
 the right knowledge set that contains all the relevant information
 regarding the projects. I reached the right number of information
@@ -526,6 +537,12 @@ Designers need to ensure that chatbots do not
 promote stereotypes, discrimination, or harmful
 biases. They should actively work to mitigate and
 correct biases in the chatbot's responses.
+
+
+
+https://github.com/Berkeley-MDes/tdf-fa23-Farehak/assets/143111800/70df5940-48f3-4055-8fc5-a1260ab651b7
+
+
 
 ## FEEDBACK ASSESING
 One constructive feedback I received was to
