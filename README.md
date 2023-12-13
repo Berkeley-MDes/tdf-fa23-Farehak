@@ -472,6 +472,21 @@ recent question.
 In order to tackle the challenges mentioned above, I needed to follow
 below steps with experiments to find the right settings. The steps are
 as follows:
+-Creating the right knowledge set: It is really important to create
+the right knowledge set that contains all the relevant information
+regarding the projects. I reached the right number of information
+chunks that helped the bot differentiate between the two projects
+and their details.
+-Putting in specific instructions: I kept the instructions to the point
+and short. The instructions were linked to the knowledge set.
+-Setting optimal temperature level: the temperature level helps set
+the level of randomness needed in the output.
+-Setting optimal similarity level: the similarity level allows the bot
+to pull the right information out from the knowledge set.
+-Setting the right chat style: agentic or naive: For this project I
+chose the language style to be agentic as that provides the more
+focused outputs that relates to the entire chat and not just the
+recent question.
 
 
 ## SPECULATIONS
